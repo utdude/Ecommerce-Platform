@@ -1,0 +1,536 @@
+*{
+  margin:0px; padding:0px;font-family: 'Comfortaa', cursive;
+}
+body{
+  background: #eee;
+}
+button#panelbtn
+{
+  padding:25px;
+  background:#ff530f;
+}
+.header{
+  width:100%;
+  border-bottom:2px solid #ddd;
+  position: fixed;
+  background: #fff;
+  z-index:1;
+  display: flex;
+  justify-content: space-between;
+  padding:10px;
+}
+
+.overlay-loader{
+  width:100%;
+  height:100vh;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  background: #fff;
+  display: none;
+}
+
+.header .head
+{
+  width:200px;
+  height:100%;
+}
+.header .head img{
+  height:40px;
+  float:left;
+}
+.header .head h2
+{
+  font-size:16px;
+  padding:10px;
+  font-family: Arial;
+  padding-left:50px;
+  color: #EB574F;
+}
+.header a{
+float:right;
+margin-left:20px;
+margin-right:50px;
+}
+button.options
+{
+  width:auto;
+  height:40px;
+  border:none;
+  padding:10px;
+  cursor:pointer;
+  border-radius: 30px;
+  background: #fff;
+  color:#1a1a1a;
+  font-size:15px;
+}
+button.options:hover{
+  color:#fff;
+  background: #EB574F;
+  transition: 0.5s all ease;
+}
+.sidepanel
+{
+  width:20%;
+  padding-top:0px;
+  margin-top:70px !important;
+  margin:10px;
+  border: 2px solid #ddd;
+  background: #fff;
+  height:85vh;
+  background:#fff;
+  position:fixed;
+}
+
+.sidepanel .head
+{
+  width:100%;
+
+  padding-top:10px; padding-bottom:10px;
+}
+.sidepanel .head h3
+{
+  color:#1a1a1a;
+  font-size: 15px;
+  padding:15px;
+}
+.mask {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.mask img {max-width: 100%;}
+
+button.navbtn
+{
+  width:100%;
+  padding:5px;
+  border:none;
+  background:#fff;
+  cursor:pointer;
+  color:#f7817b;
+  height:50px;
+  margin-bottom:20px;
+  text-align: left;
+  padding-left:25px;
+  font-size:17px;
+  transition: all ease 0.5;
+  border-radius:0;
+
+}
+button.navbtn:hover{
+  background:#f7817b;
+  color:#fff;
+}
+button.navbtn div
+{
+  width:20px;
+  height: 20px;
+  border-radius:100%;
+  background: #f7817b;
+  border:1px solid #f7817b;
+}
+button.navbtn div p{
+  color:#fff;
+  font-size:12px;
+  padding-left:4px;
+  padding-top:3px;
+}
+.links
+{
+
+}
+.header ul{
+  list-style: none;
+  display: flex;
+  padding:5px;
+  justify-content: space-between;
+}
+
+.header ul li a{
+  width:100px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  height:30px;
+  font-family: arial;
+  color:#1a1a1a;
+  background:#fff;
+  line-height:30px;
+  transition: all ease 0.5s;
+}
+.header ul li a:hover{
+  border-bottom:2px solid #EB574F;
+}
+
+.activelink
+{
+    border-bottom:2px solid #EB574F !important;
+}
+
+.smallmenu
+{
+  display: none;
+}
+
+.contentpane
+{
+  width:75%;
+  position: relative;
+  float:right;
+  padding:2px;
+  margin-top:70px;
+  margin-right: 30px;
+}
+.tab{
+  background: #fff;
+  padding:10px;
+  border:1px solid #ddd;
+}
+.tab1
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height:50px;
+}
+input,button:focus{
+  outline:none;
+}
+.tab1 button{
+  width:200px;
+  height:40px;
+  background:#f7817b;
+  color:#fff;
+  border:none;
+  transition:all ease 0.5s;
+  border-radius:30px;
+  cursor:pointer;
+}
+.tab1 p{
+  color:#383838;
+  padding:5px;
+  font-size:15px;
+}
+.tab1 button:hover{
+  color:#f7817b;
+  background:#fff;
+}
+.contentpane h2
+{
+  color:#999;
+  font-size:30px;
+  padding:20px;
+}
+
+
+.smallmenu{
+  position: fixed;
+  bottom: 0px;
+  background: #fff;
+  width:100%;
+  overflow: hidden;
+  z-index: 2;
+  padding-top:0px;
+  padding-bottom:0px;
+}
+.smallmenu .container{
+  display: flex;
+  justify-content: space-around;
+}
+.smallmenu .container div{
+
+  padding:10px;
+}
+.smallmenu .container div a{
+  color:#999;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+
+.productlabel{
+  width:70%;
+}
+
+.smallnavactive{
+  color:#f7817b !important;
+}
+.mobilenav
+{
+  width:100%;
+  padding-top:2px;
+  position:fixed;
+  z-index: 3;
+  display: none ;
+  padding-bottom:2px;
+  background:#fff;
+}
+.mobilenav .tooglenav
+{
+  width:50px;
+  height:40px;
+  background:none;
+  transition:0.5s all ease;
+  border:1px solid transparent;
+  margin:10px;
+}
+.mobilenav .tooglenav div{
+  width:80%;
+  height:2px;
+  background: #383838;
+    transition:0.5s all ease;
+  margin:5px;
+}
+.sidemenu
+{
+  width:0%;
+
+  height:100vh;
+  position:fixed;
+  overflow: hidden;
+  background: #fff;
+  transition: all ease 1s;
+}
+.sidemenu ul{
+  list-style: none;
+  padding:20px;
+}
+
+.sidemenu ul li{
+  padding:20px;
+}
+.sidemenu ul li a{
+  text-decoration: none;
+  color:#383838;
+  font-size:18px;
+}
+.onn{
+  width:70%;
+}
+.transform{
+  height:40px !important;
+  margin:0px !important;
+  background: #fff !important;
+  width:100% !important;
+}
+.edit{
+  overflow: hidden;
+}
+.transform::after{
+  content: 'x';
+  color:#383838 !important;
+  font-size:30px;
+}
+
+
+.Producttabs{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+overflow: hidden;
+  }
+  .imageholder{
+    width:20%;
+    
+  }
+   .imageholder img{
+    width:50%;
+  }
+  .Producttabs .productlabel{
+    width:55%;
+    margin:20px auto;
+  }
+  .Producttabs .productlabel h3{
+    color:#383838;
+    margin-top:0px;
+    margin-left:15px;
+    padding:5px;
+    font-size: 20px;
+  }
+  .Producttabs .productlabel p{
+    display: inline-block;
+    font-size:17px;
+    
+  }
+
+  .Producttabs .editcontainer
+{
+  width:15%;
+}
+
+.Producttabs .editcontainer .edit{
+  width:40px;
+  cursor:pointer;
+  font-size: 5px !important;
+  height:40px;
+  margin:5px;
+  border:none;
+  background: #fff;
+  color:#383838;
+}
+@media(max-width: 900px) {
+
+.Producttabs{
+display: flex;
+justify-content: space-between;
+
+}
+.imageholder{
+  width:30%;
+  
+}
+ .imageholder img{
+  width:70%;
+}
+.Producttabs .productlabel{
+  width:55%;
+  margin:0px;
+}
+.Producttabs .productlabel h3{
+  color:#383838;
+  margin-left:15px;
+  padding:5px;
+  font-size: 15px;
+}
+.Producttabs .productlabel p{
+  display: inline-block;
+  font-size: 15px;
+}
+
+.Producttabs .editcontainer
+{
+  width:15%;
+}
+
+.Producttabs .editcontainer .edit{
+  width:40px;
+  font-size: 5px !important;
+  height:40px;
+  margin:5px;
+  border:none;
+  background: #fff;
+  color:#383838;
+}
+}
+
+
+ .bigmask{
+  width:150px;
+  height:150px;
+  margin:20px;
+}
+
+.tab1{
+  padding-bottom:10px;
+}
+.profileimgtab{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.loginedit{
+  display: flex;
+  justify-content: center;
+}
+.loginedit div{
+width:50%;
+}
+.loginedit h2{font-size:15px;}
+@media(max-width:900px){
+  .loginedit{
+    flex-direction: column;
+    justify-content: center;
+  }
+  .loginedit div{
+    width:100%;
+    padding:0px;
+    margin:0px;
+  }
+}
+
+.tab .tabhead{
+  width:100%;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.tab .tabhead h3{
+  color:#383838;
+  text-align:center;
+}
+.overall-container{
+  width:200px;
+  height:200px;
+  border-radius:100%;
+  padding:5px;
+  margin:50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border:2px solid #888;
+}
+.overall-container h2{
+  margin:0px;
+  padding:0px;
+}
+.productsellcont{
+  width:50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:50px;
+  border-radius: 100%;
+  border:2px solid rgb(207, 138, 138);
+}
+
+.productsellcont h3{
+  color:#888;
+  
+}
+.tab p{
+  padding:10px;
+  font-size:16px;
+  line-height:25px;
+  color:#383838;
+}
+.sidepanel div{
+  width:100% ;
+  height:50px;
+  margin-top:10px;
+}
+.sidepanel div a{
+  display: block;
+  width:100%;
+  height:100%;
+  background: #fff;
+  line-height: 50px;
+  color:#383838;
+  text-decoration: none;
+}
+.sidepanel div a:hover{
+  color:#fff;
+  background: #EB574F;
+}
+.starter{
+  position: fixed;
+  width:100%;
+  height:100vh;
+  z-index:99999;
+  background: #EB574F;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.starter img{
+  width:20%;
+}
+@media(max-width: 900px){
+  .starter img{
+    width:50%;
+  }
+}

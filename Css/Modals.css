@@ -1,0 +1,81 @@
+.overlay
+{
+    width:100%;
+    height:100vh;
+    position:fixed;
+    z-index:1;
+    background:rgba(0,0,0,0.3);
+}
+
+.login-overlay
+{
+    display:none;
+      z-index: 100;
+}
+
+.modal
+{
+    width:50%;
+    padding:20px;
+
+    background:#eee;
+    margin:100px auto;
+}
+.modal-header
+{
+    width:100%;
+    padding:2px;
+}
+.modal-header h2
+{
+    color:#1a1a1a;
+    font-size:17px;
+    padding-left:20px;
+    display: inline-block;
+    width:78%;
+}
+.modal-header button
+{
+    width:50px;
+}
+.modal-content
+{
+    width:100%;
+    padding-top: 20px;
+    padding-bottom:5px;
+}
+.modal-input
+{
+    width:80%;
+    outline: none;
+    padding:10px;
+    border-top:none;
+    border-left:none;
+    border-radius:2px;
+    border-right:none;
+    border-bottom:2px solid #ddd;
+    height:35px;
+    margin-top:10px;
+}
+.modal-input:focus{
+    border-bottom:2px solid #F75B5B;
+    transition:1s all ease;
+}
+.modal-footer
+{
+    width:100%;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.modal-footer a
+{
+    color:#1a1a1a;
+    font-size:15px;
+    text-decoration:none;
+}
+.modal-footer a p
+{
+    display: inline-block;
+    color:#F75B5B;
+    padding-left:2px;
+}

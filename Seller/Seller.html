@@ -1,0 +1,196 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Welcome To Binokio Seller</title>
+  <link rel="stylesheet" href="../Css/Style.css">
+
+    <link rel="stylesheet" href="css/style.css">
+
+  <link rel="stylesheet" href="../Css/slider.css">
+
+  <link rel="stylesheet" href="../Css/supporters.css">
+
+  <link rel="stylesheet" href="../Css/ui.css">
+
+  <link rel="stylesheet" href="../Css/Modals.css">
+
+  <link rel="stylesheet" href="../Css/Media.css">
+
+<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+
+  <link rel="shortcut icon" href="../Img/logo.png" type="image/png">
+    <script src="../Js/Jquery.js"></script>
+     <script type = "text/javascript" 
+         src = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js">
+      </script>
+  <link rel="stylesheet" href="../assets/awesome/css/font-awesome.min.css">
+</head>
+<body>
+  
+  <style>
+    
+      .overlay-verification{
+          width:100%;
+          height: 100vh;
+          display: none;
+          justify-content: center;
+          align-items: center;
+          background: rgba(0,0,0,0.3);
+          position: fixed;
+          flex-wrap: wrap;
+      }
+      .overlaybox{
+          width:96%;
+          
+          padding:20px;
+          padding-top:50px !important;
+          padding-bottom:50px !important;
+          background: #fff;
+      }
+      .overlaybox h2{
+          color:#ec4d37;
+          padding:10px !important;
+          margin:0px !important;
+      }
+      .overlaybox p{
+          color:#1a1a1a;
+          padding:10px;
+      }
+    </style>
+  <script>
+    
+      $(document).ready(function() {
+             
+  $('.closeverification').click(function() {
+    
+         $('.overlay-verification').css('display','none'); 
+      }); 
+      });
+     
+    
+    
+    </script>
+  <div class="overlay-verification">
+     <button class="closeverification" style="position: absolute; top:10px; right:10px; background: none; color:#fff; width:70px; height:70px; border:none; font-weight:600; font-size:60px; outline:none;">&times;</button>
+      <div class="overlaybox">
+          <h2>Your Account Is Under Verification Process!</h2>
+          <p>Our Team Will Contact You As Soon As Possible..</p>
+          <p style="font-size:14px;">If Took More Than 2h Call : +91 7275351999</p>
+      </div>
+  </div>
+  
+ <div class="overlay-loader" style="z-index:10000;">
+    <img src="../Img/Loader.gif" alt="">
+  </div>
+
+    <div class="container sub header" id="user">
+        <img src="../Img/HeadSeller.png" alt="">
+
+        <div class="logedin">
+
+        </div>
+        <div class="guest">
+
+                <button class="simple" id=""  onclick="Registerpage()">Register</button>
+        <script>
+            
+            function Registerpage(){
+                window.location = "Register";
+            }
+            
+            </script>
+        </div>
+        
+    </div>
+
+    <section class="newsellersection">
+      <center>
+          <h1 class="Headlabel">Welcome To Binokio Seller's </h1><br>
+          <img src="./Img/shoppingbag.png" alt="">
+          <form action="" class="sellerlogin" id="loginForm" autocomplete="off">
+
+            <h2>Seller's Login</h2>
+            <input type="text" class="forminput" id="username" placeholder="Username Or Email">
+            <input type="password" class="forminput" id="password" placeholder="Password">
+            <button id="" class="special" type="submit">Login</button><br><br>
+             
+  <div id="errorbox">
+               <center><b><p style="color:#fff;"></p></b></center>
+             </div><br><br>
+          </form>
+      </center><br>
+    </section>
+
+<section style="width:100%; overflow: hidden;padding-bottom:1px; background:#1a1a1a;">
+          <h2 class="Headlabel">Want To Sell With Binokio?</h2>
+          <p class="content">Dear Seller,<br><br>If you want to sell your products on Binokio then you need to first register to the Binokio Seller And Get your account varified with the correct seller details asked in registration of seller.<br><br> Thankyou!</p>
+  <section class="sellerRegistration">
+<center>  <button class="special" style="width:80%; height:50px;" onclick="send2register()">Register Here..</button></center>
+
+  </section></section>
+
+  <section class="sectioninfo">
+
+      <h2>Come On! Start Selling Today</h2>
+      <h3>BINOKIO Is Wih You At Every Single Step And Helping You To Increase</h3><br>
+
+      <p>What You Need For Selling With BINOKIO</p><br>
+
+      <div class="circles">
+        <h4>Your Own Bussness &</h4>
+        <div>Aadhar</div>
+        <div>PayTm</div>
+        <h4>OR</h4>
+        <div>Bank</div>
+        <div>Product</div>
+      </div>
+
+  </section>
+  <script>
+      function send2register(){
+        window.location = "Register.php";
+      }
+      
+      
+      $('#loginForm').submit(function(e) {
+         e.preventDefault();
+          var username = $('#username').val();
+          var password = $('#password').val();
+          
+          $.ajax({
+              url: "Process/Login.php",
+             type: "POST",
+              data: {username:username,password:password},
+              cache: false,
+              beforeSend:function(){
+                  $('.overlay-loader').css('display','flex');
+              },
+              success:function(data){
+                  if(jQuery.trim(data) != username){
+                       $('.overlay-loader').css('display','none');
+                      $('#errorbox p').html(data);
+                       $("#errorbox").effect( "shake", {times:4}, 1000 );
+                      if(jQuery.trim(data) == "VERIFICATION"){
+                         $('.overlay-verification').css('display','flex');
+                         }
+                  }else{
+                      
+                      $('.overlay-loader').css('display','none');
+                      window.location = "Panel/Panel.php";
+                     
+                  }
+              }
+              
+          });
+      });
+      
+      
+      
+  </script>
+  <script src="../Js/Menu.js"></script>
+</body>
+</html>

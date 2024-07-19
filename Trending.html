@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Trending</title>
+
+    <link rel="stylesheet" href="Css/Style.css">
+    <link rel="stylesheet" href="Style.css">
+    <link rel="stylesheet" href="Css/slider.css">
+
+    <link rel="stylesheet" href="Css/supporters.css">
+
+    <link rel="stylesheet" href="Css/ui.css">
+
+    <link rel="stylesheet" href="Css/Modals.css">
+
+    <link rel="stylesheet" href="Css/Media.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+
+    <link rel="shortcut icon" href="Img/logo.png" type="image/png">
+
+    <link rel="stylesheet" href="assets/awesome/css/font-awesome.min.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+
+
+    <script src="Js/Jquery.js"></script>
+
+
+</head>
+
+<body>
+    <div class="sidemenu">
+           <button class="simple" id="closeSidemenu" style="font-size:40px; margin:10px; width:60px; height:60px; color:#1a1a1a;">&times;</button>
+            <ul>
+              <li><a href="Login">Login</a></li>
+              <li><a href="CustomerCare">Customer Care</a></li>
+              <li><a href="Trending">Trending Products</a></li>
+              <li><a href="Seller/Seller">Become Seller</a></li>
+            </ul>
+          </div>  <div class="subheader">
+            <ul>
+              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                 
+            </ul>
+                <a href="#">Customer@Binokio.com</a>
+          </div>
+          <div class="navbar">
+
+
+
+           
+        
+       
+          <div><li><a href="Featured.html">Featured </a></li></div>
+              
+              <li><a href="CustomerCare.html">Customer Care</a></li>
+              <li><a href="#">View Offers</a></li>
+              <li><a href="Login.html">Login</a></li>
+     
+         
+
+
+<br><br>
+          </div>
+          <div class="header">
+             <div>
+                  <img src="Img/logo.png" alt="">
+                  <button class="opennav"><i class="fa fa-bars"></i></button>
+             </div>
+             <div class="search-container">
+                 <form action="">
+                     <input type="text" placeholder="Search..">
+                     
+                 </form>
+             </div>
+             <div style="padding:5px;">
+                 <button class="cartbtn" onclick="cart()"><i class="fa fa-shopping-cart"></i></button>
+             </div>
+          </div>
+          
+          <div class="search-container-small">
+              <form action="">
+                 <center><input type="text" placeholder="Search.."></center>
+              </form>
+          </div>
+
+          <h2 class="container-label" style="">Fetured Products</h2><br>
+          <style>.container-label{color:#383838;
+    padding:20px;
+    background: #b3315f; background: -moz-linear-gradient(to right,  #b3315f 0%,#ffaa85 100%); background: -webkit-linear-gradient(to right,  #b3315f 0%,#ffaa85 100%); background: linear-gradient(to right,  #b3315f 0%,#ffaa85 100%);
+    font-weight: 100;
+    width:20%;
+    color:#fff;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-size:20px; margin-top:20px;}</style>
+    <div class="category-card-container">
+        <div class="productresponse row">
+
+        <!--
+          Cards For Category are Here...
+      -->
+
+
+      <!-- <a href="Product.html">
+           <div class="card catcard">
+       <center>
+           <div class="image-container-card">
+             <img src="Img/test.jpg" alt="">
+           </div>
+       </center>
+       <div>
+         <h4>R.S Agrawal Maths Class 10</h4>
+       </div>
+
+       <div class="card-foot">
+
+       <h5>Price -</h5><strike>&#x20B9;440</strike><p>&#x20B9;390</p>
+
+       </div>
+       <center><button class="special">Buy</button></center>
+    </div>
+       </a>
+
+       <a href="#">
+           <div class="card catcard">
+       <center>
+           <div class="image-container-card">
+             <img src="https://cf1.s3.souqcdn.com/item/2018/04/16/29/87/28/53/item_XL_29872853_130702934.jpg" alt="">
+           </div>
+       </center>
+        <h4>Calvin Klein Men UnderWare Combo</h4>
+       <div class="card-foot">
+
+       <h5>Price -</h5><strike>&#x20B9;2100</strike><p>&#x20B9;1450</p>
+
+       </div>
+       <center><button class="special">Buy</button></center>
+    </div>
+       </a>-->
+
+       <!--
+         Cards For Category are ENDS Here...
+       -->
+
+    </div>
+    </div>
+
+    <div class="category-card-container-small">
+      <!--
+        Small Cards For Category are Here...
+    -->
+
+        <div class="productresponse container">
+
+<script type="text/javascript">
+
+ $(document).ready(function() {
+                
+
+      $.ajax({   
+        type: "GET",
+        url: "fetch.php", 
+        dataType: "html",               
+        success: function(response){                    
+            $(".productresponse").html(response); 
+          
+        }
+
+});
+});
+
+</script>
+
+
+        <!--  <a href="Product.html">
+            <div class="smallcatcard">
+
+                <img align="left" src="Img/test.jpg" alt="">
+
+              <h4>R.S Agrawal Maths Class 10</h4>
+              <h5>Price -</h5><br><strike id="fake-price">&#x20B9;440</strike><p id="actual-price">&#x20B9;390</p>
+            </div>
+          </a>
+
+          <a href="#">
+            <div class="smallcatcard">
+
+                <img align="left" src="https://cdn.vox-cdn.com/thumbor/bHxKs8l5CPZwSQ6DfjuemE_cQ_U=/0x0:2013x1558/1200x800/filters:focal(846x618:1168x940)/cdn.vox-cdn.com/uploads/chorus_image/image/56535997/conceptiphone.0.jpg" alt="">
+
+              <h4>IPHONE X 6gb , 250 gb , Full Display , 20x20 Dual Camera</h4>
+              <h5>Price -</h5><br><strike id="fake-price">&#x20B9;1,00,000</strike><p id="actual-price">&#x20B9;90,000</p>
+            </div>
+          </a>
+-->
+
+
+
+        </div>
+
+    </div>
+    
+    <section class="sub-footer">
+        <center>
+            <div>
+                <h2>Knows Us</h2>
+                <ul>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">About Founder</a></li>
+                    <li><a href="#">Our Aim</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2>Connect With Us</h2>
+                <ul>
+                    <li><a href="#"><i class="fa fa-instagram"></i> &nbsp;&nbsp;Instagram</a></li>
+                    <li><a href="#"><i class="fa fa-facebook"></i>&nbsp;&nbsp; Facebook</a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i> &nbsp;&nbsp;Twitter</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2>Make Money</h2>
+                <ul>
+                    <li><a href="#">Become A Seller</a></li>
+                    <li><a href="#">Advertise Your Product</a></li>
+                    <li><a href="#">Advertise yourself</a></li>
+
+                </ul>
+            </div>
+        </center>
+
+
+    </section>
+
+    <section class="footer">
+        <center>
+            <h5>&copy; Binokio.com 2019</h5>
+        </center>
+    </section>
+    <script src="Js/slider.js"></script>
+    <script src="Js/Supporter.js"></script>
+     <script src="Js/Modal.js"></script>
+     <script src="Js/Menu.js"></script>
+</body>
+
+</html>

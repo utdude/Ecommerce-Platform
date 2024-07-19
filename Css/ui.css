@@ -1,0 +1,649 @@
+.offercard {
+    padding-top: 2px;
+    max-width: 350px;
+    border-radius: 5px !important;
+    margin: 50px auto;
+    padding-bottom: 2px;
+    background: #fff;
+}
+
+.offercard img {
+    height: 300px;
+}
+
+.offercard h1 {
+    color: #1a1a1a;
+    padding: 10px;
+}
+
+.offercard p {
+    color: #888;
+    padding: 10px;
+    display: inline-block;
+    font-size: 18px;
+}
+div.Userheading{
+    width:98%;
+    margin: 10px auto;
+    background: #b3315f; background: -moz-linear-gradient(to right,  #b3315f 0%,#ffaa85 100%); background: -webkit-linear-gradient(to right,  #b3315f 0%,#ffaa85 100%); background: linear-gradient(to right,  #b3315f 0%,#ffaa85 100%);
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+}
+div.Userheading h3{
+    color:#fff;
+    font-weight: 300;
+    padding:10px;
+}
+
+#label {
+    padding: 1px;
+    color: #444;
+    display: inline-block;
+}
+
+.container .row .categorycard {
+
+    margin: 10px !important;
+}
+
+section .row {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.row a {
+    width: 30%;
+    text-decoration: none;
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+.categorycard {
+    padding-top: 2px;
+    max-width: 350px;
+    margin: 20px;
+    vertical-align: bottom;
+    border-radius: 5px !important;
+    padding-bottom: 2px;
+    background: #fff;
+}
+
+.categorycard img {
+    height: 300px;
+}
+
+.categorycard h1 {
+    color: #1a1a1a;
+    width: 70%;
+    margin: 10px;
+    padding: 20px;
+    border-top: 1px solid #1a1a1a;
+    border-bottom: 1px solid #1a1a1a;
+    padding: 10px;
+}
+
+.labelholder {
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    background: #ddd;
+}
+
+.simple {
+    width: 100px;
+    height: 40px;
+
+    margin: 20px;
+    color: #fff;
+    background: none;
+    border: 1px solid #fff;
+}
+
+.simple:hover {
+    color: #1a1a1a;
+    background: #fff;
+    transition: 0.5s all ease;
+}
+
+button.special {
+    width: 250px;
+    font-family: 'Audiowide', sans-serif;
+    height: 40px;
+    color: #fff;
+    margin: 30px;
+    cursor: pointer;
+    border: none;
+    font-size: 17px;
+    background-image: linear-gradient(120deg, #d82a13, #FA654B);
+
+}
+
+
+button.special:hover {
+    background: #ec4d37;
+
+}
+
+.overlayForgetpassword{
+    width:100%;
+    height:100vh;
+    display: none;
+    background: rgba(0,0,0,0.5);
+    position: fixed;
+}
+.overlayForgetpassword .forgetpasswordbox{
+    width:100%;
+    height:100vh;
+    margin: 300px auto;
+}
+.overlayForgetpassword .forgetpasswordbox input[type="email"]{
+    width:50%;
+}
+.overlayForgetpassword .forgetpasswordbox form{
+    width:100%;
+}
+.overlayForgetpassword .forgetpasswordbox button{
+    width:100px;
+}
+
+.forminput {
+    width: 70%;
+    height: 35px;
+    outline: none;
+    background: #fff;
+   border-radius: 20px;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid #bbb;
+}
+
+.forminput:focus {
+    border: 1px solid #F75B5B;
+    transition: 1s all ease;
+}
+
+.category-card-container a {
+    color: #111;
+}
+
+.catcard {
+    width: 20%;
+    margin: 10px;
+    padding: 5px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+    background: #fff;
+    border: 1px solid #ddd;
+}
+
+.catcard img {
+    width: 90%;
+}
+
+.catcard h4 {
+    padding: 10px;
+    font-size: 15px;
+    color: #1a1a1a;
+}
+
+.card-foot {
+    width: 80%;
+    padding: 2px;
+}
+
+.card-foot h5 {
+    padding: 5px;
+    color: #1a1a1a;
+
+}
+
+.card-foot strike {
+    color: #ff1100;
+    display: inline-block;
+    padding: 5px;
+}
+
+.card-foot p {
+    padding: 5px;
+    color: #1a1a1a;
+}
+
+.catcard:hover {
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.1) inset;
+
+    transition: 1s all ease;
+}
+
+.card button.special {
+    width: 70%;
+    margin: 10px auto;
+}
+
+.Signupform button.special {
+    width: 50% !important;
+}
+
+.Signupform {
+    padding-top: 10px;
+    width: 90%;
+    
+
+}
+.signupcontainer2{
+    float:right;
+    padding:5px;
+    width:50%; padding-top:10px;
+}
+.Signupform .forminput {
+    border: 1px solid #ddd;
+    height: 15px;
+    border-radius: 20px;
+}
+
+.signupcontainer {
+    width: 100%;
+    height: 100vh;
+    background: url("../Img/back3.jpg");
+    background-size: cover;
+}
+
+.msg {
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #ddd;
+}
+
+.dark {
+    background: #1a1a1a;
+}
+
+.dark h3 {
+    color: #fff;
+}
+
+.dark p {
+    color: #fff;
+}
+
+.dark a {
+    color: #fff;
+}
+
+.msg button {
+    margin: 7px;
+    height: 30px;
+}
+
+.msg h3 {
+    font-weight: 100;
+    font-size: 17px;
+    padding-right: 5px;
+    display: inline-block;
+}
+
+.image-container-card {
+    width: 98%;
+
+    overflow: hidden;
+}
+
+.image-container-card img {
+    padding-top: 10px;
+
+}
+
+button.add-bag {
+    width: 50px;
+    border: 2px solid #ec4d37;
+    color: #ec4d37;
+    font-size: 20px;
+    margin: 0px !important;
+    height: 50px;
+    border-radius: 100%;
+}
+
+button.add-bag:hover {
+    background: #ec4d37;
+    color: #fff;
+    transition: 0.5s all ease;
+}
+
+.tags {
+    border:1px solid #1a1a1a;
+    color: #1a1a1a;
+    width: 20%;
+    margin: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+.category-card-container-small .container a {
+    text-align: left !important;
+    display: inline;
+    position: relative;
+    text-decoration: none;
+    left: 0px;
+
+}
+
+.category-card-container-small .container {
+    margin-top: 10px;
+
+    margin-bottom: 10px;
+}
+
+.category-card-container-small .container a .smallcatcard {
+    width: 100%;
+    padding-top: 20px;
+
+    padding-bottom: 20px;
+    border-bottom: 1px solid #aaa;
+    margin: auto;
+}
+
+.smallcatcard img {
+    margin: 10px !important;
+}
+
+.category-card-container-small .container img {
+    height: 80px;
+    width: auto !important;
+    display: inline-block;
+
+}
+
+.category-card-container-small .container a h4 {
+    color: #1a1a1a;
+    padding: 10px;
+}
+
+.category-card-container-small .container a h5 {
+    color: #1a1a1a;
+    padding: 10px;
+    display: inline-block;
+}
+
+.category-card-container-small .container a strike {
+    color: #ff1100;
+    display: inline-block;
+    padding: 5px;
+}
+
+.category-card-container-small .container a {
+    color: #1a1a1a;
+
+}
+
+#actual-price {
+    padding: 5px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.small-menu {
+    width: 0%;
+    height: 100vh;
+    background: #fff;
+    overflow: hidden;
+    transition: 1s all ease;
+    position: fixed;
+    z-index: 1;
+}
+
+.small-menu .menu-head {
+    width: 100%;
+    overflow: auto;
+    background: #ec4d37;
+    height: 55px;
+}
+
+.small-menu .menu-head button {
+    margin: 10px;
+    height: 35px;
+    width: 35px;
+}
+
+.small-menu ul {
+    list-style: none;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.small-menu ul li {
+    width: 200px;
+    padding: 10px;
+    border-radius: 2px;
+    margin-top: 15px;
+
+
+}
+
+.menu-overlay {
+    width: 0%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.3);
+    position: fixed;
+    z-index: 2;
+    transition: 0.5s all ease;
+}
+
+.small-menu ul li a {
+    text-decoration: none;
+    color: #1a1a1a;
+    display: block;
+    line-height: 24px;
+
+    padding: 5px;
+}
+
+.small-menu button {
+    width: 80%;
+    height: 45px;
+}
+
+.menu-head h2 {
+    color: #fff;
+    font-size: 14px;
+    padding: 20px;
+    float: left;
+}
+
+.smcategories {
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.smcategories .row {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.smcategories .row a {
+    width: 17% auto;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.smcategories .row a .div {
+    width: 100%;
+    height: 100%;
+}
+
+.smcategories .row a .div img {
+    width: 100%;
+    border-radius: 100%;
+    float: none;
+    display: inline-block;
+}
+
+.smcategories .row a h4 {
+    color: #1a1a1a;
+    font-size: 12px;
+    display: inline-block;
+    padding-top: 2px;
+}
+
+.slogans img {
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    float: left;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.slogans h3 {
+    padding-top: 50px;
+}
+
+.slogans p {
+    color: #1a1a1a;
+    padding: 30px;
+    line-height: 25px;
+}
+
+.forminput-simple {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #888;
+    margin: 10px;
+}
+
+.forminput-simple:focus {
+    outline: none;
+    transition: 0.6s all ease;
+    border: 1px solid #1a1a1a;
+}
+
+#closenavigation {
+    width: 40px;
+    float: right;
+    color: #fff;
+    height: 40px;
+    background: none;
+    border: none;
+}
+
+.ProductHolder {
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.productLink {
+
+    text-decoration: none;
+    color: #1a1a1a;
+}
+
+.productCard {
+    width: 15%;
+    
+  transition: 0.3s;
+    border-radius: 5px;
+    margin: 10px;
+    padding-bottom:15px !important;
+    padding: 0px;
+    border: 1px solid #ddd;
+}
+.productCard:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.imageholder {
+    width: 90%;
+    margin:5px;
+}
+
+.imageholder img {
+    width: 90%;
+
+}
+
+.contentholder {
+    padding: 0px;
+    text-align: left;
+}
+
+.contentholder h3,
+p {
+    font-weight: 200;
+    font-size: 17px;
+    color: #1a1a1a;
+  
+}
+.contentholder h3{
+    width:100%;
+   font-size: 15px;
+    letter-spacing: 1px;
+    padding-left:15px !important;
+    padding:5px;
+    margin-bottom:5px;
+}
+#rupeesymbol{
+    font-size: 10px;
+       
+}
+
+.contentholder p {
+    font-weight:300;
+    padding:5px;
+    padding-left:15px !important;   
+    font-size:19px;
+}
+
+.cardbtn {
+    width: 35px;
+    height:35px;
+    border-radius: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 2px;
+    background: #EC4D37;
+   
+    color: #fff;
+    border: none;
+    
+}
+
+.cart {
+    background: #1a1a1a;
+}
+
+
+
+@media(min-width: 700px) and (max-width: 1100px){
+   .ProductHolder{
+    flex-wrap:wrap;
+}
+   
+   .productCard {
+    width: 25%;
+    }
+}
+@media(max-width: 700px){
+    
+   .ProductHolder{
+    flex-wrap:wrap;
+}
+   .productCard {
+    width: 45%;
+    }
+}
+
+

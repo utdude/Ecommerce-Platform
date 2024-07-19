@@ -1,0 +1,722 @@
+[01-Dec-2019 12:04:51 America/New_York] PHP Notice:  Undefined variable: headers in /home/binodrqm/public_html/Process/Recover.php on line 65
+[01-Dec-2019 12:06:27 America/New_York] PHP Notice:  Undefined variable: headers in /home/binodrqm/public_html/Process/Recover.php on line 65
+[01-Dec-2019 12:09:49 America/New_York] PHP Notice:  Undefined variable: headers in /home/binodrqm/public_html/Process/Recover.php on line 63
+[31-Dec-2019 10:00:40 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:00:56 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:01:10 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:01:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:01:40 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:01:55 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:02:10 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:02:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:02:43 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:02:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:03:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:03:28 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:03:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:03:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:04:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:04:27 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:04:42 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:04:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:05:14 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:05:44 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:05:58 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:06:45 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:06:57 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:07:12 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:07:27 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:07:45 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:08:00 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:08:15 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:08:30 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:08:45 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:09:00 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:09:15 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:09:30 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:09:45 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:10:00 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:10:15 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:10:30 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:10:45 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:11:00 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:11:15 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:11:30 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:11:45 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:12:00 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:12:15 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:12:30 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:12:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:13:02 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:13:18 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:13:32 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:13:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:14:02 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:14:17 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:14:32 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:14:48 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:15:03 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:15:17 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:15:32 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:15:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:16:02 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:16:17 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:16:32 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:16:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:17:02 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:17:17 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:17:32 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:17:49 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:18:04 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:18:19 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:18:34 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:18:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:19:04 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:19:23 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:19:34 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:19:49 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:20:04 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:20:19 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:20:34 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:20:49 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:21:04 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:21:19 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:21:35 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:21:51 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:22:04 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:22:19 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:22:34 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:22:54 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:23:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:23:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:23:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:23:51 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:24:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:24:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:24:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:24:51 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:25:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:25:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:25:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:25:51 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:26:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:26:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:26:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:26:51 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:27:06 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:27:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:27:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:27:36 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:27:53 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:27:53 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:28:09 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[31-Dec-2019 10:28:09 America/New_York] PHP Warning:  A non-numeric value encountered in /home/binodrqm/public_html/Process/FetchOrders.php on line 61
+[21-Jan-2020 05:49:30 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:30 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:30 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:31 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:31 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:31 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:33 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:33 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:33 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:41 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:41 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:41 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:42 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:42 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:42 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:43 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:43 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:43 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:48 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:48 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:48 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:51 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:51 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:51 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:51 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:51 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:51 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:51 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:51 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:49:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:49:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:50:01 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:50:01 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:50:01 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:50:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:50:28 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:50:28 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:50:28 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:50:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:00 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:00 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:02 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:02 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:02 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:02 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:02 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:02 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:04 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:04 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:04 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:04 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:04 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:04 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:05 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:05 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:06 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:06 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:06 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:06 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:06 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:06 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:36 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:36 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:36 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:37 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:37 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:37 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:37 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:37 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:37 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:37 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:37 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:37 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:37 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:39 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:39 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:39 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:39 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:39 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:39 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:39 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:39 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:39 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:39 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:39 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:39 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:39 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:39 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:39 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:46 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:46 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:46 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:46 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:46 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:46 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:46 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:46 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:46 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:46 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:51:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:34 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:34 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:34 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:36 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:36 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:36 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:36 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:36 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:36 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:36 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:36 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:36 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:36 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:36 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:36 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:37 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:37 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:37 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:37 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:37 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:37 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:52:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:52:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:27 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:27 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:27 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:29 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:29 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:29 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:30 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:30 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:30 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:30 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:30 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:30 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:31 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:31 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:31 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:31 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:31 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:31 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:31 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:31 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:31 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:31 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:31 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:53:31 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:53:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:54:05 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:54:05 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:54:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:54:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:55:55 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:55:55 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:55:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:55:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:01 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:01 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:01 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:03 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:03 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:03 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:03 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:03 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:03 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:04 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:04 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:04 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:04 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:23 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:23 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:23 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:47 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:47 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:47 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:47 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:47 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:47 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:47 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:47 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:47 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:47 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:47 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:47 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:47 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:47 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:56:47 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:57:19 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:57:19 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:57:19 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:57:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:57:58 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:57:58 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:57:58 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:57:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:58:48 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:58:48 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:58:48 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:58:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:58:49 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:58:49 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:58:49 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:58:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:58:50 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:58:50 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:58:50 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:58:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:35 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:35 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:36 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:36 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:36 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:36 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:36 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:36 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:36 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:36 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:36 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:36 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:36 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:36 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:37 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:37 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:43 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:43 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:43 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:44 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:44 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:44 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:44 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:44 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:44 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 05:59:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 05:59:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 06:00:41 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 06:00:41 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 06:00:41 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 06:00:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 06:00:41 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 06:00:41 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 06:00:41 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 06:00:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 06:00:41 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 06:00:41 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 06:00:41 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 06:00:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 06:00:41 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 06:00:41 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 06:00:41 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 06:00:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 06:00:42 America/New_York] PHP Warning:  include_once(/home/binodrqm/public_html/Process/Config.php): failed to open stream: Permission denied in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 06:00:42 America/New_York] PHP Warning:  include_once(): Failed opening 'Config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/binodrqm/public_html/Process/Login.php on line 7
+[21-Jan-2020 06:00:42 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/Process/Login.php on line 16
+[21-Jan-2020 06:00:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/Process/Login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/Process/Login.php on line 16

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+   
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Binokio Login</title>
+      <link rel="stylesheet" href="Css/Style.css">
+    <link rel="stylesheet" href="Style.css">
+
+    <link rel="stylesheet" href="Css/slider.css">
+
+    <link rel="stylesheet" href="Css/supporters.css">
+
+    <link rel="stylesheet" href="Css/ui.css">
+
+    <link rel="stylesheet" href="Css/Modals.css">
+
+    <link rel="stylesheet" href="Css/Media.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Comfortaa|Happy+Monkey|Rajdhani:300" rel="stylesheet">
+
+    <link rel="shortcut icon" href="Img/logo.png" type="image/png">
+
+    <link rel="stylesheet" href="Assets/awesome/css/font-awesome.min.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+
+
+    <script src="Js/Jquery.js"></script>
+</head>
+
+<body>
+ 
+ <div class="overlayForgetpassword">
+   <button id="closeForgetpassword" style="width:50px;height:50px; background: none; margin:20px;border:none; font-size:40px; float:right; color:#fff; border:none;" class="">&times;</button>
+    <center> <div class="forgetpasswordbox">
+        <form action="" type="post" id="recoverForm">
+             <input type="email" placeholder="Enter Your Registered Email.." class="forminput" id="emailrec" required>
+              <button type="submit" class="special">Recover</button><br>
+              <div class="recerror" id="errorbox"><b><p></p></b></div>
+        </form>
+       
+     </div></center>
+ </div>
+
+ <div class="sidemenu">
+           <button class="simple" id="closeSidemenu" style="font-size:40px; margin:10px; width:60px; height:60px; color:#1a1a1a;">&times;</button>
+            <ul>
+              
+              <li><a href="CustomerCare">Customer Care</a></li>
+              <li><a href="Trending">Trending Products</a></li>
+              <li><a href="Seller/Seller">Become Seller</a></li>
+            </ul>
+          </div> 
+         
+          
+
+<!--<div class="foot-menu">
+    <div>
+        <a href="#"><i class="fa fa-menu"></i>Category</a>
+    </div>
+</div>-->
+
+<style>
+    .header{
+        display:none;
+    }
+    @media(max-width: 900px){
+        .loginformholder{
+            padding-top:100px;
+        }
+        .header{
+            display: block;
+        }
+    }
+    </style>
+<div class="loginholder" style="">
+    <div class="header" style="padding:10px;">
+        <div>
+            <img src="Img/logo.png" alt="">
+            <button class="opennav" style="width:50px; height:50px;"><i class="fa fa-bars"></i></button>
+        </div>
+       
+        
+    </div>
+<br><br>
+    
+<div class="loginformholder">
+    <center>
+      <div>
+      <img src="Img/logo.png" alt="" style="width:100px;">
+    </div>
+        <form action="" type="post" id="LoginForm">
+         <input type="text" class="forminput" placeholder="Email Or Phone.." id="username" style="width:50%;" required>
+      <input type="password" class="forminput" placeholder="password.." style="width:50%;" id="password" required>
+<br><br>
+      <button class="special" type="submit" >Login</button><br>
+<br><br>
+        <div id="errorbox">
+               <center><b><p></p></b></center>
+             </div><br><br>
+      <a href="#" id="openForgetPassword">Forgot Password?</a><br>
+   </form>
+
+      <a href="Signup.html">Create A New Account</a>
+<br><br><br><br>
+    </center>
+</div>
+   
+   <style>
+     @media(max-width:900px){
+      img{
+        width:50px !important;
+      }
+      .forminput{
+        width: 90% !important;
+      }
+       
+         .loginholder button{
+             margin:0px !important;
+             width:100px !important;
+         }
+     }
+        .loginholder a{
+             color:#fff;
+            text-decoration: none;
+            
+         }
+       .loginholder a:hover{
+           color:#ec4d36;
+           transition: 0.5s all ease;
+       }
+       #errorbox p{color:#fff !important;}
+   </style>
+   
+   
+   <script>
+       
+       
+       $(document).ready(function() {
+          $('#LoginForm').submit(function(e) {
+              
+                e.preventDefault();
+    var username = $('#username').val();
+              var password = $('#password').val();
+              
+              if(jQuery.trim(username) != "" && jQuery.trim(password) != ""){
+                  
+                  
+                   $.ajax({
+                 
+                  url: "Process/Login.php",
+                  type:"POST",
+                  data:{username:username,password:password},
+                  cache:false,
+                  beforeSend:function(){
+                      $('.overlay-loader').css('display' , 'flex');
+                  },
+                  success:function(data){
+                      if(jQuery.trim(data) == ""){
+                          
+                          window.location = "index";
+                          
+                      }else{
+                          $('.overlay-loader').css('display' , 'none');
+                          $('#errorbox p').html(data);
+                      }
+                  }
+                  
+              });
+                 
+                 }else{
+                 $('#errorbox p').html("All Fields Are Required!");
+                 }
+             
+              
+              
+          });
+           
+           
+           $('#recoverForm').submit(function(e) {
+              e.preventDefault();
+               
+               var recemail = $('#emailrec').val();
+               
+               $.ajax({
+                  url: "Process/Recover.php",
+                   type:"POST",
+                   data:{email:recemail},
+                   cache:false,
+                   beforesend:function(){
+                       
+                   },
+                   success:function(data){
+                       if(jQuery.trim(data) == ""){
+                           $('.recerror p').html("Email with Varification Link Has Been Sent!");
+                       }else{
+                           
+                           $('.recerror p').html(data);
+                           
+                       }
+                   }
+               });
+           });
+           
+           
+       });
+       
+       
+       </script>
+   </div>
+     
+  
+ 
+<script src="Js/Menu.js"></script>
+<script src="Js/Modal.js"></script>
+</body>
+</html>

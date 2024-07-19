@@ -1,0 +1,12 @@
+$btncolor : #ff530f;
+button#panelbtn
+{
+  padding:25px;
+  background:$btncolor;
+}
+.sidepanel
+{
+  width:20%;
+  background: #fff;
+  border-right:1px solid $btncolor;
+}

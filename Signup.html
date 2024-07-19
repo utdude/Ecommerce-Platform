@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Signup</title>
+
+    <link rel="stylesheet" href="Css/Style.css">
+
+    <link rel="stylesheet" href="Css/slider.css">
+
+    <link rel="stylesheet" href="Css/supporters.css">
+
+    <link rel="stylesheet" href="Css/ui.css">
+
+    <link rel="stylesheet" href="Css/Modals.css">
+
+    <link rel="stylesheet" href="Css/Media.css">
+
+    <link rel="stylesheet" href="Style.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+
+    <link rel="shortcut icon" href="Img/logo.png" type="image/png">
+
+    <link rel="stylesheet" href="Assets/awesome/css/font-awesome.min.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+
+
+    <script src="Js/Jquery.js"></script>
+
+
+</head>
+
+<body>
+    <div class="sidemenu">
+       <button class="simple" id="closeSidemenu" style="font-size:40px; margin:10px; width:60px; height:60px; color:#1a1a1a;">&times;</button>
+        <ul>
+            <li><a href="Login">Login</a></li>
+            <li><a href="CustomerCare">Customer Care</a></li>
+            <li><a href="Trending">Trending Products</a></li>
+            <li><a href="Seller/Seller">Become Seller</a></li>
+        </ul>
+    </div>
+    
+   
+     <div class="header">
+        <div>
+            <img src="Img/logo.png" alt="">
+            <button class="opennav" style="width:50px; height:50px; background: #ec4d37; color:#fff !important;"><i class="fa fa-bars"></i></button>
+        </div>
+       
+        
+    </div>
+
+    
+
+    <div class="container signupcontainer" style="padding-top:0px;">
+        <div class="formholder " style="width:100%;">
+            <div class="signupcontainer2" style=" ">
+                <h2 style="color:#fff;">Welcome To Binokio <p>Signup -</p>
+                </h2>
+                <center>
+                    <form action="" class="Signupform" id="Signupform" autocomplete="off">
+
+                        <input type="text" class="forminput" id="name" Placeholder="Full Name" required>
+
+
+                        <input type="email" class="forminput" id="email" Placeholder="Email" required>
+
+                        <input type="phone" class="forminput" id="phone" Placeholder="Phone Number" required>
+                        <input type="text" class="forminput" id="username" Placeholder="Username (Required For Login).." required>
+                        <input type="password" class="forminput" id="password" Placeholder="Password (Required For Login).." required>
+                        <br>
+                        <button class="special" type="submit">Sign up</button><br>
+                        
+                         <div id="errorbox">
+               <center><b><p style="color:#ff1100;"></p></b></center></div><br>
+               <p style="color:#fff; font-size:13px;"> Already Have An Account? <a href="Login" style="">Login Here!</a></p>
+             <br><br>
+                        
+                    </form>
+                </center>
+            </div>
+        </div>
+        
+    </div>
+    
+    <style>
+    .header{
+        display:none;
+    }
+    @media(max-width: 900px){
+        .loginformholder{
+            padding-top:100px;
+        }
+        .header{
+            display: block;
+        }
+        .signupcontainer2{
+            padding-top:30px !important;
+            height:100% !important;
+        }
+    }
+    </style>
+
+    <script>
+        $(document).ready(function() {
+            $('#Signupform').submit(function(e) {
+                e.preventDefault();
+
+                var name = $('#name').val();
+                var email = $('#email').val();
+                var phone = $('#phone').val();
+                var username = $('#username').val();
+                var password = $('#password').val();
+
+                
+
+                if (jQuery.trim(name) != "" && jQuery.trim(email) != "" && jQuery.trim(phone) != "" && jQuery.trim(password) != "" && jQuery.trim(username) != "") {
+
+                    
+                    var phoneNum = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
+                    if (phone.match(phoneNum)) {
+                       
+                        
+                         $.ajax({
+
+                        url: "Process/Signup.php",
+                        type: "POST",
+                        data: {
+                            username: username,
+                            password: password,
+                            name: name,
+                            email: email,
+                            phone: phone
+                        },
+                        cache: false,
+                        beforeSend: function() {
+                            $('.overlay-loader').css('display', 'flex');
+                        },
+                        success: function(data) {
+                            if (jQuery.trim(data) == "") {
+
+                                window.location = "index";
+
+                            } else {
+                                $('.overlay-loader').css('display', 'none');
+                                $('#errorbox p').html(data);
+                            }
+                        }
+
+                    });
+                        
+                        
+                        
+                    } else {
+                       
+                         $('#errorbox p').html("Phone Number Is Not Valid!");
+                        
+                    }
+
+                   
+
+                } else {
+                    $('#errorbox p').html("All Fields Are Required!");
+                }
+
+            });
+        });
+
+    </script>
+
+   <!--  <section class="sub-footer">
+        <center>
+            <div>
+                <h2>Knows Us</h2>
+                <ul>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">About Founder</a></li>
+                    <li><a href="#">Our Aim</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2>Connect With Us</h2>
+                <ul>
+                    <li><a href="#"><i class="fa fa-instagram"></i> &nbsp;&nbsp;Instagram</a></li>
+                    <li><a href="#"><i class="fa fa-facebook"></i>&nbsp;&nbsp; Facebook</a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i> &nbsp;&nbsp;Twitter</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2>Make Money</h2>
+                <ul>
+                    <li><a href="#">Become A Seller</a></li>
+                    <li><a href="#">Advertise Your Product</a></li>
+                    <li><a href="#">Advertise yourself</a></li>
+
+                </ul>
+            </div>
+        </center>
+
+
+    </section> 
+    <section class="footer">
+        <center>
+            <h5>&copy; binokio.com 2019</h5>
+        </center>
+    </section>-->
+
+    <script src="Js/slider.js"></script>
+    <script src="Js/Supporter.js"></script>
+    <script src="Js/Modal.js"></script>
+    <script src="Js/Menu.js"></script>
+</body>
+
+
+
+</html>

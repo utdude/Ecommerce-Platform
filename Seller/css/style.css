@@ -1,0 +1,445 @@
+.newsellersection
+{
+  background:url(../Img/back2.jpg);
+  width:100%;
+  overflow: hidden;
+  border-bottom: 2px solid #EC4D37;
+  background-size: 1500px;
+  image-resolution: snap;
+  background-attachment: fixed;
+  padding-bottom:20px;
+}
+h1.Headlabel
+{
+  padding:20px;
+  padding-bottom:20px !important;
+  font-family:Arial;
+  font-size:80px;
+  color:#fff;
+}
+
+h2.Headlabel
+{
+  padding:40px;
+  font-family:Arial;
+  font-size:50px;
+  color:#EC4D37;
+}
+p.content
+{
+  color:#fff;
+  padding-top: 10px !important;
+  line-height: 30px;
+  padding:50px;
+  font-size: 20px;
+}
+@media (max-width:500px) {
+  h1.Headlabel
+  {
+    padding:40px;
+    font-size:60px;
+  }
+    .btn-select-file {
+  border-radius: 2px;
+  width:50% !important;
+    }
+}
+
+.registrationform
+{
+  width: 100%;
+  padding-top:20px;
+overflow: auto;
+  padding-bottom:1px;
+  background:url(../Img/back3.jpg);
+  background-size: cover;
+}
+.registrationform div img{
+  float:left;
+  width:80%;
+  padding:100px;
+  padding-top:200px;
+}
+
+.registrationform form{
+  width:45%;
+    float:right;
+  padding-top: 40px !important;
+  background: #fff;
+  padding:10px;
+  margin-right:50px;
+  margin-bottom: 20px;
+}
+.registrationform .forminput{
+    height:10px;
+    margin:20px;
+border-radius:20px;
+    border:1px solid #888;
+
+}
+.registrationform .forminput:focus{
+  border-top:1px solid transparent;
+  border-left:1px solid transparent;
+  border-right:1px solid transparent;
+  border-radius: 0px;
+  transition:all ease 0.5s;
+}
+
+textarea.forminput
+{
+  height:100px !important;
+  border-radius:10px;
+}
+h3.Headlabel
+{
+  padding:20px;
+  color:#EC4D37;
+  font-size:30px;
+}
+h4
+{
+  color:#1a1a1a;
+
+}
+.steplabel
+{
+  font-size:15px;
+}
+.pagetoplabel
+{
+  color:#EC4D37;
+}
+@media (max-width:900px) {
+  .registrationform{
+    padding-top:0px;
+    width:100%;
+    padding:0px;
+  }
+  input[type="checkbox"]{
+    width:20px;
+  
+  
+    height:20px;
+  }
+  .confirm-box{
+    width:100% !important;
+    height:100vh !important;
+    margin:0px !important;
+    padding:0px !important;
+  }
+  .confirm-box p{
+    padding-left:20px !important;
+    padding-top:10px;
+    padding-right:10px;
+    line-height:25px;
+    font-size:15px !important;
+    color:#1a1a1a !important;
+
+  }
+  .confirm-box img{
+    width:85%;
+    margin-bottom:20px;
+  }
+  #closeconfirm{
+    margin:10px;
+  }
+  .confirm-box h3{
+    padding-left:10px !important;
+    font-size:17px;
+    padding-right:10px;
+    line-height:30px;
+    color:#888;
+  }
+  label{
+    color:#fff !important;
+    display: inline-block;
+  }
+  .headlogo{
+    display: none;
+  }
+  .registrationform form h2
+  {
+    color:#fff !important;
+  }
+  .registrationform form{
+    width:100% !important;
+    margin-bottom:0px;
+    background: none;
+    margin:0px;
+    padding:0px;
+    float:none;
+
+  }
+  .file-block p{
+    color:#fff !important;
+  }
+  .pagetoplabel
+  {
+    background: #EC4D37;
+    color:#fff;
+    padding:10px;
+  }
+  .steplabel
+  {
+    color:#fff;
+    background: #1a1a1a;
+    padding:10px;
+  }
+  .registrationform form .forminput
+  {
+      }
+}
+.file-block
+{
+    width:73%;
+    padding-bottom:1px;
+    border-radius:30px;
+    border:1px solid #999;
+}
+.file-block div
+{
+    width:100%;
+    background: #EC4D37;
+    padding-top:2px;
+    padding-bottom:2px;
+}
+.file-block div h4
+{
+    color:#fff;
+    padding:5px;
+}
+.file-block p{
+  color:#1a1a1a;
+  font-size:12px;
+  padding:5px;
+}
+#fileinput {
+
+ display: none !important;
+}
+.btn-select-file {
+  border-radius: 2px;
+  width:80%;
+    color:#fff;
+    margin:10px;
+    line-height:20px;
+    border:none;
+    background: #EC4D37;
+    padding:10px;
+}
+
+
+
+
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}
+
+.custom-select select {
+  display: none;
+}
+
+.select-selected {
+  background-color: #EC4D37;
+}
+
+
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0px;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+
+
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+
+
+.select-items div,.select-selected {
+  color: #ffffff;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+  cursor: pointer;
+}
+
+
+.select-items {
+  position: absolute;
+  background-color: #EC4D37;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+
+.select-hide {
+  display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.termsandconditionsbox
+{
+    width:70%;
+    padding:5px;
+    height:400px;
+    overflow-y: scroll;
+    border:1px solid #999;
+}
+.termsandconditionsbox p
+{
+    padding:10px;
+    font-size: 17px;
+    line-height: 25px;
+}
+.termsandconditionsbox ul
+{
+    list-style: circle;
+    text-align: left;
+    padding: 40px;
+
+}
+.termsandconditionsbox ul li
+{
+    line-height: 25px;
+}
+.termsandconditionsbox p,li{
+    font-family: Arial;
+}
+.termsandconditionsbox div
+{
+    width:100%;
+    padding-top:10px;
+    padding-bottom:10px;
+    background:#EC4D37;
+    overflow: auto;
+}
+.termsandconditionsbox div img
+{
+    height:40px;
+    padding:10px;
+    float:left;
+}
+.termsandconditionsbox div h3
+{
+    color:#fff;
+    padding:20px;
+}
+
+.sellerlogin
+{
+  width:50%;
+  padding:5px;
+  float:right;
+}
+.sellerlogin .forminput
+{
+  border:1px solid #ddd;
+  height:15px;
+  border-radius:20px;
+}
+.newsellersection img{
+  width:28%;
+}
+.sellerlogin .forminput:focus{
+  border:1px solid transparent;
+}
+.sellerlogin h2
+ {color:#EC4D37; padding:30px; margin-left:50px; text-align: left;}
+
+section.sectioninfo
+{
+   background: #de4313; background: -moz-linear-gradient(-56deg,  #de4313 0%,#fec163 100%); background: -webkit-linear-gradient(-56deg,  #de4313 0%,#fec163 100%); background: linear-gradient(-56deg,  #de4313 0%,#fec163 100%);
+  width: :100%;
+  padding-top:20px;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-bottom:20px;
+}
+section.sectioninfo h3,h2
+{
+  padding:10px;
+  font-family: impact;
+  font-weight:100;
+  letter-spacing: 2px;
+  color:#fff;
+  margin:20px;
+}
+section.sectioninfo  p{
+  color:#fff;
+  margin-left:30px;
+  font-size: 20px;
+}
+
+.circles
+{display:flex; justify-content:space-around;}
+.circles div{
+  width:150px;
+  color:#fff;
+  height:150px;
+  border-radius: 100%;
+  border:2px solid #fff;
+  display: flex;
+  justify-content: center;
+align-items: center;
+}
+
+.circles div:hover
+{
+  color:#1a1a1a;
+  background:#fff;
+}
+.circles h4
+{
+  color:#fff;
+  padding:70px;
+}
+.circles div p{color:#fff; padding:0px; margin:0px;}
+.overlay-loader{
+  width:100%;
+  height:100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  background: #fff;
+  display: none;
+}
+.confirm{
+  width:100%;
+  height: 100vh;
+  display: none;
+  background: rgba(0,0,0,0.5);
+  position: fixed;
+}
+.confirm .confirm-box{
+  width:80%;
+  padding:20px;
+  background: #fff;
+  margin:50px auto;
+}
+.confirm .confirm-box p{
+  padding:10px;
+}
+.confirm .confirm-box #closeconfirm{
+  float:right;
+  width:60px;
+  height:60px;
+  background:none;
+  border:none;
+  font-size:50px;
+  color:#888;
+  cursor:pointer;
+}

@@ -1,0 +1,5 @@
+[28-Dec-2019 10:48:19 America/New_York] PHP Notice:  Undefined variable: conn in /home/binodrqm/public_html/APP_FILES/ClothsCAT.php on line 4
+[28-Dec-2019 10:48:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/binodrqm/public_html/APP_FILES/ClothsCAT.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/binodrqm/public_html/APP_FILES/ClothsCAT.php on line 4

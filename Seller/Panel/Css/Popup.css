@@ -1,0 +1,328 @@
+.popupedit
+{
+  width:100%;
+  position: fixed;
+  height:0px;
+  transition: 1s all ease;
+  overflow: hidden;
+  z-index: 5;
+
+  background: rgba(0,0,0,0.5);
+}
+.popuphead h2
+{
+  float:left;
+  display: inline-block;
+  color:#f7817b;
+  padding:20px;
+}
+.popupbox{
+  width:80%;
+  padding:10px;
+  margin:50px;
+  background: #fff;
+     overflow: auto;
+}
+ .popupbox .popuphead{
+   width:90%;
+   padding:5px;
+   float: right;
+
+
+ }
+  .popupbox .popuphead button{
+    width:50px;
+    height:50px;
+    float:right;
+  }
+
+ .popupbox .popupcontent
+ {
+   width:90%;
+   padding:5px;
+   display: flex;
+   justify-content: space-between;
+   padding-bottom:20px;
+ }
+  .popupbox .popupcontent .popupdivider{
+    width:50%;
+    overflow: hidden;
+  }
+    .popupbox .popupcontent div form{
+      margin-top:10px;
+    }
+    .popupbox .popupcontent div img{
+      width:90%;
+      padding:10px;
+    }
+    .popupdivider input[type="text"]:first-child{
+      margin-bottom:50px;
+    }
+
+    textarea.panelinput{
+      border:1px solid #999;
+      height:300px !important;
+      line-height:30px;
+      resize: none;
+    }
+.panelinput{
+  width:80%;
+  height:10px;
+      margin:10px;
+      margin-top:40px;
+      padding:10px;
+    padding-top:15px;
+    padding-bottom:15px;
+  border-bottom:1px solid #999;
+  border-top:none;
+  border-left:none;
+  border-right:none;
+}
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #fff;
+    display: inline-block;
+    padding: 10px;
+    color:#fff;
+    background:#f7817b;
+    width: 80% !important;
+    cursor: pointer;
+}
+
+
+
+
+
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}
+
+.custom-select select {
+  display: none;
+}
+
+.select-selected {
+  background-color: #f7817b;
+}
+
+
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0px;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+
+
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+
+
+.select-items div,.select-selected {
+  color: #ffffff;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+  cursor: pointer;
+}
+
+
+.select-items {
+  position: absolute;
+  background-color: #f7817b;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+
+.select-hide {
+  display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+#price::after{
+  content '₹';
+  color:#1a1a1a;
+  font-size:20px;
+}
+label.radio{
+  padding:10px;
+  margin:15px;
+  color:#1a1a1a;
+}
+
+.panelbtn
+{
+  width:30%;
+  height: 40px;
+  border-radius: 5px;
+  border:none;
+  color:#fff;
+  background: #f7817b;
+}
+.popup
+{
+  width:100%;
+  position: fixed;
+  height:0px;
+  transition: 1s all ease;
+  overflow: hidden;
+  z-index: 4;
+
+  background: rgba(0,0,0,0.5);
+}
+.popuphead h2
+{
+  float:left;
+  display: inline-block;
+  color:#f7817b;
+  padding:20px;
+}
+.popupbox{
+  width:80%;
+  padding:10px;
+  margin:50px;
+  background: #fff;
+     overflow: auto;
+}
+ .popupbox .popuphead{
+   width:90%;
+   padding:5px;
+   float: right;
+
+
+ }
+  .popupbox .popuphead button{
+    width:50px;
+    height:50px;
+    float:right;
+  }
+
+ .popupbox .popupcontent
+ {
+   width:90%;
+   padding:5px;
+   display: flex;
+   justify-content: space-between;
+   padding-bottom:20px;
+ }
+  .popupbox .popupcontent .popupdivider{
+    width:50%;
+    overflow: hidden;
+  }
+    .popupbox .popupcontent div form{
+      margin-top:10px;
+    }
+    .popupbox .popupcontent div img{
+      width:90%;
+      padding:10px;
+    }
+
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #fff;
+    display: inline-block;
+    padding: 10px;
+    color:#fff;
+    background:#f7817b;
+    width: 80% !important;
+    cursor: pointer;
+}
+
+
+
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}
+
+.custom-select select {
+  display: none;
+}
+
+.select-selected {
+  background-color: #f7817b;
+}
+
+
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0px;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+
+
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+
+
+.select-items div,.select-selected {
+  color: #ffffff;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+  cursor: pointer;
+}
+
+
+.select-items {
+  position: absolute;
+  background-color: #f7817b;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+
+.select-hide {
+  display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+#price::after{
+  content '₹';
+  color:#1a1a1a;
+  font-size:20px;
+}
+label.radio{
+  padding:10px;
+  margin:15px;
+  color:#1a1a1a;
+}
+
+.panelbtn
+{
+  width:30%;
+  height: 40px;
+  border-radius: 5px;
+  border:none;
+  color:#fff;
+  background: #f7817b;
+}

@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Welcome To BINOKIO</title>
+
+    <link rel="stylesheet" href="Css/Style.css">
+
+    <link rel="stylesheet" href="Css/slider.css">
+
+    <link rel="stylesheet" href="Css/supporters.css">
+
+    <link rel="stylesheet" href="Css/ui.css">
+
+    <link rel="stylesheet" href="Css/Modals.css">
+
+    <link rel="stylesheet" href="Css/Media.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+
+    <link rel="shortcut icon" href="Img/logo.png" type="image/png">
+
+    <link rel="stylesheet" href="assets/awesome/css/font-awesome.min.css">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+
+
+    <script src="Js/Jquery.js"></script>
+
+
+</head>
+
+<body>
+
+    <!--
+
+   MODALS ARE HERE
+
+   -->
+
+    <div class="login-overlay overlay">
+
+        <div class="login-modal modal">
+            <div class="modal-header">
+                <h2>Welcome Back Login..</h2>
+                <button class="special small" id="closeloginmodal"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-content">
+                <form action="">
+                    <center>
+                        <input type="text" class="modal-input" id="Email" placeholder="Email ID" required>
+                        <input type="password" class="modal-input" id="Password" placeholder="Password" required>
+                    </center>
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <center>
+                    <button class="special">Login</button><br>
+                    <a href="Signup.html">New To Hypsterland? <p>Sign Up Now!</p></a>
+                </center>
+            </div>
+        </div>
+
+    </div>
+
+<div class="menu-overlay">
+    <div class="small-menu">
+        <div class="menu-head">
+                <button id="closenavigation"><i class="fa fa-times"></i></button>
+        </div>
+      
+<div style="overlay:scroll; padding:1px;">
+      <ul>
+        <center>
+            <li><a href="Category.html">Categories</a></li>
+            <li><a href="#">Advertise</a></li>
+            <li><a href="#">Offers</a></li>
+            <li><a href="Seller/Seller.html">Become Seller</a></li>
+            <li><a href="#">Customer Service</a></li>
+            <div class="guest">
+              <button class="simple black-white" id="openloginmodal">Login</button>
+            </div>
+        </center>
+
+      </ul></div>
+    </div></div>
+
+    <!--
+
+   MODLAS ENDS HERE
+
+   -->
+    <!--<div class="container fullscreen" id="guest">
+        <div class="header">
+            <img src="Img/Head.png" alt="LOGO">
+            <div class="container links">
+                <button class="special">Take A Look</button>
+                <button class="simple" id="openloginmodal">Login</button>
+            </div>
+        </div>
+        <div class="mbheader">
+            <center>
+                <img src="Img/Head.png" alt="LOGO"><br>
+                <button class="special">Take A Look</button><br>
+                <button class="simple" id="openloginmodal">Login</button>
+            </center>
+        </div>
+        <div class="container headimg">
+            <center>
+                <img src="Img/Banner1.png" alt="">
+            </center>
+        </div>
+
+    </div>-->
+    <div class="bignav">
+
+      <div class="container sub header" id="user">
+          <img src="Img/Head.png" alt="">
+          <input type="text" class="forminput" id="search" placeholder="Search..">
+          <div class="logedin">
+
+          </div>
+          <div class="guest">
+
+                  <button class="simple" id="openloginmodal">Login</button>
+          </div>
+      </div>
+      <div class="navbar">
+
+     <a href="#">City [Varanasi]</a>
+        <a href="#">Offers</a>
+        <a href="#">Advertise with Us</a>
+        <div class="dropdown">
+          <button class="dropbtn" onclick="sendcat();">Categories
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+
+            <div class="row">
+              <div class="column">
+                <h3>Men's Fasion -</h3>
+                <a href="#">T-shirts</a>
+                <a href="#">shirts</a>
+                <a href="#">Hoodies</a>
+                <a href="#">Jeins</a>
+                <a href="#">Footwear's</a>
+                <a href="#">Casual Wear's</a>
+              </div>
+              <div class="column">
+                <h3>Women's Fasion -</h3>
+                <a href="#">T-shirts</a>
+                <a href="#">shirts</a>
+                <a href="#">Hoodies</a>
+                <a href="#">Jeins</a>
+                <a href="#">Footwear's</a>
+                <a href="#">Casual Wear's</a>
+              </div>
+              <div class="column">
+                <h3>Electronics -</h3>
+                <a href="#">Mobiles</a>
+                  <a href="#">Air Conditioner</a>
+                  <a href="#">Fashion Electronics</a>
+                  <a href="#">Chargers</a>
+                  <a href="#">Home Theatre & Speakers</a>
+                  <a href="#">Computer's</a>
+
+                     <a href="#" class="underlined">View More..</a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="#">Sell On Korier</a>
+     <a href="#">Customer Services</a>
+      </div>
+
+    </div>
+
+    <!--<div class="msg dark">
+    <center>
+      <h3>Welcome To Binokio! New?</h3><input type="button" class="simple" onclick="send();" value="Sign Up"><h3>Now!</h3>
+    </center>
+    </div>-->
+            <div class="smallnav">
+              <img src="Img/logo.png" alt="">
+              <button id="opennavigation" class="small simple right nomargin"><i class="fa fa-bars"></i></button>
+
+            </div>
+            <div class="Search-holder-small">
+            <center><input type="text" class="forminput reactive" id="search" placeholder="Search.."></center>
+            </div>
+
+        <div class="smcategories">
+          <div class="image-titlebar">
+          <center> <img src="Img/banner3.png" alt=""></center>
+          </div>
+          <br>
+          <center>
+
+            <div class="row">
+            <a href="#">    <div class="div">
+              <img src="http://g02.a.alicdn.com/kf/HTB1Iq0SIVXXXXcUaXXXq6xXFXXX7/115742541/HTB1Iq0SIVXXXXcUaXXXq6xXFXXX7.jpg" alt="">
+            </div> <h4>Shirts</h4></a>
+            <a href="#">    <div class="div">
+              <img src="https://st3.depositphotos.com/2251265/12490/i/950/depositphotos_124902624-stock-photo-closeup-blank-brown-cotton-tshirt.jpg" alt="">
+            </div> <h4>T-Shirts</h4></a>
+            <a href="#">    <div class="div">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1wjsL4usUgx0jtjXOekZFVTj-2aYhHC0HF9NFeqR0pbp7Kc2" alt="">
+            </div> <h4>Jeans</h4></a>
+            <a href="#">    <div class="div">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91qHR2ZAyxe2IrakH1XBgeSAagruZKsfGGStKO08Nd2WUsEVY" alt="">
+            </div> <h4>Hoddies</h4></a>
+            <a href="#">    <div class="div">
+              <img src="https://cdn.allbirds.com/image/fetch/q_auto,f_auto/w_500,f_auto,q_auto,b_rgb:F2F2F2/https://cdn.shopify.com/s/files/1/1104/4168/products/Allbirds_M_Wool_Runner_Kotare_GREY_PAIR_da97a889-0b14-49b1-80ce-f8602b953fa7.png?v=1542061565
+            " alt="">
+          </div> <h4>Foot Wear</h4></a>
+          <a href="#">    <div class="div">
+            <img src="https://ae01.alicdn.com/kf/HTB1qjtfIXXXXXXnXFXXq6xXFXXXo/2014-new-Blazer-Jacket-leisure-fashion-dress-Men-s-men-s-Boutique-Fashionable-coat-a-button.jpg
+          " alt="">
+        </div> <h4>Casual Wear</h4></a>
+            </div>
+
+          </center>
+
+        </div>
+
+        <section class="container topbanner">
+            <h1>We Are In Varanasi</h1>
+        </section>
+
+          <div class="image-titlebar">
+          <center> <img src="Img/banner2.png" alt=""></center>
+          </div>
+
+                <div class="slider">
+                    <div class="slide_viewer">
+                        <div class="slide_group">
+                            <div class="slide">
+                                <div class="card offercard">
+                                    <center>
+                                        <img src="https://5.imimg.com/data5/LL/QB/MY-3046964/advertising-t-shirt-500x500.jpg" alt="">
+                                        <h1>Plain T-shirt Pure Cotton</h1>
+                                        <p id="label">Price -</p>
+                                        <p>&#x20B9;</p>
+                                        <p>200</p><br>
+                                        <button id="buy" class="special">Buy</button>
+                                    </center>
+                                </div>
+                            </div>
+
+                            <div class="slide">
+
+                                <div class="card offercard">
+                                    <center>
+                                        <img src="http://4.imimg.com/data4/PP/PP/GLADMIN-/ashirwad-wheat-flour-500x500.jpg" alt="">
+                                        <h1>Aashirwad Wheet Floor</h1>
+                                        <p id="label">Price -</p>
+                                        <p>&#x20B9;</p>
+                                        <p>320</p><br>
+                                        <button id="buy" class="special">Buy</button>
+                                    </center>
+                                </div>
+
+                            </div>
+
+                            <div class="slide">
+
+                                <div class="card offercard">
+                                    <center>
+                                        <img src="https://d1s2zprapij148.cloudfront.net/image/cache/catalog/products/12784_6-240x300.jpg" alt="">
+                                        <h1>Packet Toor Dal</h1>
+                                        <p id="label">Price -</p>
+                                        <p>&#x20B9;</p>
+                                        <p>250</p><br>
+                                        <button id="buy" class="special">Buy</button>
+                                    </center>
+                                </div>
+
+                            </div>
+
+                            <div class="slide">
+
+                                <div class="card offercard">
+                                    <center>
+                                        <img src="https://audioengineusa.com/wp-content/uploads/2018/02/A2frontred.jpg" alt="">
+                                        <h1>Desktop Speakers</h1>
+                                        <p id="label">Price -</p>
+                                        <p>&#x20B9;</p>
+                                        <p>500</p><br>
+                                        <button id="buy" class="special">Buy</button>
+                                    </center>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <!-- End // .slider -->
+
+
+
+                <div class="directional_nav">
+                    <div class="previous_btn" title="Previous">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="65px" height="65px" viewBox="-11 -11.5 65 66">
+      <g>
+        <g>
+          <path fill="#474544" d="M-10.5,22.118C-10.5,4.132,4.133-10.5,22.118-10.5S54.736,4.132,54.736,22.118
+			c0,17.985-14.633,32.618-32.618,32.618S-10.5,40.103-10.5,22.118z M-8.288,22.118c0,16.766,13.639,30.406,30.406,30.406 c16.765,0,30.405-13.641,30.405-30.406c0-16.766-13.641-30.406-30.405-30.406C5.35-8.288-8.288,5.352-8.288,22.118z"/>
+          <path fill="#474544" d="M25.43,33.243L14.628,22.429c-0.433-0.432-0.433-1.132,0-1.564L25.43,10.051c0.432-0.432,1.132-0.432,1.563,0	c0.431,0.431,0.431,1.132,0,1.564L16.972,21.647l10.021,10.035c0.432,0.433,0.432,1.134,0,1.564	c-0.215,0.218-0.498,0.323-0.78,0.323C25.929,33.569,25.646,33.464,25.43,33.243z"/>
+        </g>
+      </g>
+    </svg>
+                    </div>
+                    <div class="next_btn" title="Next">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="65px" height="65px" viewBox="-11 -11.5 65 66">
+      <g>
+        <g>
+          <path fill="#474544" d="M22.118,54.736C4.132,54.736-10.5,40.103-10.5,22.118C-10.5,4.132,4.132-10.5,22.118-10.5	c17.985,0,32.618,14.632,32.618,32.618C54.736,40.103,40.103,54.736,22.118,54.736z M22.118-8.288	c-16.765,0-30.406,13.64-30.406,30.406c0,16.766,13.641,30.406,30.406,30.406c16.768,0,30.406-13.641,30.406-30.406 C52.524,5.352,38.885-8.288,22.118-8.288z"/>
+          <path fill="#474544" d="M18.022,33.569c 0.282,0-0.566-0.105-0.781-0.323c-0.432-0.431-0.432-1.132,0-1.564l10.022-10.035 			L17.241,11.615c 0.431-0.432-0.431-1.133,0-1.564c0.432-0.432,1.132-0.432,1.564,0l10.803,10.814c0.433,0.432,0.433,1.132,0,1.564 L18.805,33.243C18.59,33.464,18.306,33.569,18.022,33.569z"/>
+        </g>
+      </g>
+    </svg>
+                    </div>
+                </div>
+
+
+
+
+    <section class="divider back1 categories">
+
+
+            <center>
+              <div class="image-titlebar">
+              <center> <img src="Img/banner3.png" alt=""></center>
+              </div>
+                <div class="row">
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/71%2BMj1xix1L._UL1500_.jpg" alt="">
+
+                                    <div class="labelholder">
+                                        <h1>T - Shirt For Men</h1>
+                                    </div>
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://5.imimg.com/data5/DF/WL/MY-2092175/girls-t-shirts-500x500.jpg" alt="">
+
+                                    <div class="labelholder">
+                                        <h1>T - Shirts For Women</h1>
+                                    </div>
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://5.imimg.com/data5/TA/XM/MY-43102754/mens-casual-shirt-500x500.jpg" alt="">
+
+                                    <div class="labelholder">
+                                        <h1>Shirts For Men</h1>
+                                    </div>
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://images.voonik.com/57803412/18222497_250356955433387_5300561481451571059_n-product.jpg?1493905488&sizes=250px" alt="">
+
+                                    <div class="labelholder">
+                                        <h1>Shirts For Women</h1>
+                                    </div>
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/71HOC0VLDpL._UY679_.jpg" alt="">
+                                    <div class="labelholder">
+                                        <h1>Hoodie For Men</h1>
+                                    </div>
+
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://i.pinimg.com/originals/02/11/81/021181fb660b75b1b353d792770def65.png" alt="">
+                                    <div class="labelholder">
+                                        <h1>Hoodie For Women</h1>
+                                    </div>
+
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://lsco.scene7.com/is/image/lsco/Levis/clothing/594340000-front-pdp.jpg?$grid_desktop_bottoms$" alt="">
+
+                                    <div class="labelholder">
+                                        <h1>Jeans For Men</h1>
+                                    </div>
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://rue21.scene7.com/is/image/rue21/product-image?$thumb$&$hideText=1&$hideBlueBanner=1&$hideRedBanner=1&DefaultImage=rue21/Img_Not_Avail&$src=0077_000463_0007515_0041_m
+" alt="">
+
+                                    <div class="labelholder">
+                                        <h1>Jeans For Women</h1>
+                                    </div>
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://cdn.shopclues.com/images1/thumbnails/90782/320/320/140135946-90782662-1533283444.jpg" alt="">
+
+                                    <div class="labelholder">
+                                        <h1>Footwear For Men</h1>
+                                    </div>
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://cdn.shopclues.com/images/thumbnails/57473/280/1/T1BLACK37614314303401488419129.jpg" alt="">
+
+                                    <div class="labelholder">
+                                        <h1>Footwear For Women</h1>
+                                    </div>
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://a3655836d5c58a086ac2-4e8d43a89f100386d472e9f1a1dc59ca.ssl.cf3.rackcdn.com/images/extralarge/966191791_01.jpg" alt="">
+
+                                    <div class="labelholder">
+                                        <h1>Casual Wear</h1>
+                                    </div>
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+                    <a href="#">
+                        <div class="div">
+
+                            <div class="categorycard">
+                                <center>
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41qR-tMBQQL.jpg" alt="">
+
+                                    <div class="labelholder">
+                                        <h1>Casual Wear</h1>
+                                    </div>
+                                </center>
+                            </div>
+
+                        </div>
+                    </a>
+
+                </div>
+
+            </center>
+
+
+
+    </section>
+    <section class="logobar">
+        <center> <img src="Img/Head.png" alt=""></center>
+
+    </section>
+    <section class="sub-footer">
+        <center>
+            <div>
+                <h2>Knows Us</h2>
+                <ul>
+                    <li><a href="About/About.html">About Us</a></li>
+                    <li><a href="About/Founder.html">About Founder</a></li>
+                    <li><a href="About/Aim.html">Our Aim</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2>Connect With Us</h2>
+                <ul>
+                    <li><a href="#"><i class="fa fa-instagram"></i> &nbsp;&nbsp;Instagram</a></li>
+                    <li><a href="#"><i class="fa fa-facebook"></i>&nbsp;&nbsp; Facebook</a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i> &nbsp;&nbsp;Twitter</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2>Make Money</h2>
+                <ul>
+                    <li><a href="#">Become A Seller</a></li>
+                    <li><a href="#">Advertise Your Product</a></li>
+                    <li><a href="#">Advertise yourself</a></li>
+
+                </ul>
+            </div>
+        </center>
+
+
+    </section>
+
+    <section class="footer">
+        <center>
+            <h5>&copy; Binokio.com 2019</h5>
+        </center>
+    </section>
+    <script src="Js/slider.js"></script>
+    <script src="Js/Supporter.js"></script>
+     <script src="Js/Modal.js"></script>
+     <script src="Js/Menu.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,117 @@
+.right
+{
+    float: right;
+}
+button.small {
+    width: 50px;
+
+}
+
+.sub
+{
+    height:60px;
+    background:#ec4d37;
+    overflow: hidden;
+}
+.sub img
+{
+    height:45px;
+    padding:5px;
+    margin:2px;
+    float:left !important;
+}
+.sub button
+{
+    margin:10px !important;
+}
+.mbsub
+{
+    height:60px;
+    background:#3463E9;
+}
+.mbsub img
+{
+    float:left;
+    height:60px;
+    padding:0px !important;
+    margin-left:10px;
+}
+.mbsub button{
+    display: none;
+}
+.centered{margin:50px auto;}
+
+
+.header .forminput{
+    width:40%;
+    display: inline-block;
+    float: left;
+    height:15px;
+    padding:10px;
+    margin:12px;
+    margin-left:50px;
+    border-bottom:none !important;
+    border-radius:5px;
+}
+.header .simple{
+    float:right;
+}
+
+.underlined{
+  text-decoration: underline !important;
+}
+
+.product-btn-bar .special
+{
+  height:50px;
+  font-size: 20px;
+  background: rgba(237,73,45,1);
+background: -moz-linear-gradient(45deg, rgba(237,73,45,1) 0%, rgba(224,26,0,1) 32%, rgba(209,24,0,1) 51%, rgba(224,26,0,1) 69%, rgba(240,47,23,1) 78%, rgba(236,77,55,1) 100%);
+background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(237,73,45,1)), color-stop(32%, rgba(224,26,0,1)), color-stop(51%, rgba(209,24,0,1)), color-stop(69%, rgba(224,26,0,1)), color-stop(78%, rgba(240,47,23,1)), color-stop(100%, rgba(236,77,55,1)));
+background: -webkit-linear-gradient(45deg, rgba(237,73,45,1) 0%, rgba(224,26,0,1) 32%, rgba(209,24,0,1) 51%, rgba(224,26,0,1) 69%, rgba(240,47,23,1) 78%, rgba(236,77,55,1) 100%);
+background: -o-linear-gradient(45deg, rgba(237,73,45,1) 0%, rgba(224,26,0,1) 32%, rgba(209,24,0,1) 51%, rgba(224,26,0,1) 69%, rgba(240,47,23,1) 78%, rgba(236,77,55,1) 100%);
+background: -ms-linear-gradient(45deg, rgba(237,73,45,1) 0%, rgba(224,26,0,1) 32%, rgba(209,24,0,1) 51%, rgba(224,26,0,1) 69%, rgba(240,47,23,1) 78%, rgba(236,77,55,1) 100%);
+background: linear-gradient(45deg, rgba(237,73,45,1) 0%, rgba(224,26,0,1) 32%, rgba(209,24,0,1) 51%, rgba(224,26,0,1) 69%, rgba(240,47,23,1) 78%, rgba(236,77,55,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ed492d', endColorstr='#ec4d37', GradientType=1 );
+margin:2px !important;
+border-radius: 100px;
+}
+.nomargin{
+  margin:0px !important;
+}
+
+input[type="text"].reactive{
+  background: none;
+  color:#fff;
+border:none;
+  font-size:15px;
+}
+
+input[type="text"].reactive:-ms-input-placeholder {
+  color: #1a1a1a;
+}
+
+input[type="text"].reactive::-ms-input-placeholder {
+  color: #1a1a1a;
+}
+input[type="text"].reactive::placeholder {
+color: #1a1a1a;
+opacity: 1;
+}
+
+
+input[type="text"].reactive:focus{
+  background: #fff;
+  color:#1a1a1a;
+  border:none;
+  font-size:20px;
+  transition: 0.5s all ease;
+}
+
+
+.black-white
+{
+  border:1px solid #1a1a1a !important;
+  color:#1a1a1a !important;
+  font-size: 20px;
+}
